@@ -1,0 +1,23 @@
+{
+  "name": "bookmark-mohammed-api",
+  "version": "1.0.0",
+  "description": "Labo 1 de mohammed ibnou zahir 202167613",
+  "main": "serveur.js",
+  "type": "module",
+  "engine" : {
+    "node":"16.14.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node serveur.js"
+  },
+  "author": "Mohammed Ibnou Zahir",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^8.1.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
